@@ -25,7 +25,7 @@ defmodule Secure do
     "Hello, #{b}!"
   end
 end
-b = "Atok"
+b = "Siapa"
 
 if b =="Atok" do
     IO.puts (Secure.b("Halo Atok!,selamat belajar Elixir"))
