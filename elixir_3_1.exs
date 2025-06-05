@@ -1,3 +1,4 @@
+#Contoh program sederhana
 IO.puts("Selamat datang di program sederhana konversi integer ke string")
 IO.write("Masukkan angka: ")
 angka = String.trim(IO.gets("> ")) |> String.to_integer()
